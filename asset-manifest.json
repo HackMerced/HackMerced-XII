@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3dfae923.css",
-    "main.js": "/static/js/main.7d8649ee.js",
+    "main.css": "/static/css/main.0f4bd052.css",
+    "main.js": "/static/js/main.30ce8b49.js",
     "static/js/488.fce01191.chunk.js": "/static/js/488.fce01191.chunk.js",
     "static/media/green_hill.png": "/static/media/green_hill.86dfe628bdaed3c424a6.png",
     "static/media/home_page.png": "/static/media/home_page.fee81ca4958eed13d291.png",
@@ -28,12 +28,12 @@
     "index.html": "/index.html",
     "static/media/Vector 1.svg": "/static/media/Vector 1.585114fdd7b0cd96479f326eeaccf89f.svg",
     "static/media/arrow_right.svg": "/static/media/arrow_right.797afb4bb4bfd0b5293bba1cdb904dd4.svg",
-    "main.3dfae923.css.map": "/static/css/main.3dfae923.css.map",
-    "main.7d8649ee.js.map": "/static/js/main.7d8649ee.js.map",
+    "main.0f4bd052.css.map": "/static/css/main.0f4bd052.css.map",
+    "main.30ce8b49.js.map": "/static/js/main.30ce8b49.js.map",
     "488.fce01191.chunk.js.map": "/static/js/488.fce01191.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dfae923.css",
-    "static/js/main.7d8649ee.js"
+    "static/css/main.0f4bd052.css",
+    "static/js/main.30ce8b49.js"
   ]
 }
