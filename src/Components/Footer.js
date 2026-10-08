@@ -43,7 +43,7 @@ function Footer() {
                 Merced, CA 95348
                 <br/>
                 <br/>
-                For inquiries, please contact Megan Ciraulo at <a href="mailto:mciraulo@ucmerced.edu">mciraulo@ucmerced.edu</a>
+                For inquiries, please contact Brandon Del Mundo at <a href="mailto:bdelmundo@ucmerced.edu">bdelmundo@ucmerced.edu</a>
             </div>
           </div>
 

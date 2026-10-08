@@ -42,7 +42,7 @@
 
   /* --main-page-background: #422162; */
   --main-page-background: #263b49;
-  --glow-color: #4f888b; 
+  --glow-color: #bbd18d; 
 
   --secondary-red: #334799; /*linear gradient on navbar*/
   /* --secondary-purple: #663399; */
@@ -411,7 +411,7 @@ a {
   align-items: center;
   justify-content: center;
   /* background-color: var(--lighter-orange); */
-  background-color: #127871; /* temporary */
+  background-color: #D98E1E; /* temporary */
   border-radius: 3rem;
   padding: 4rem;
 }
@@ -421,6 +421,10 @@ a {
   z-index: 2;
   transition-duration: 0.4s;
   animation: glide-in 0.2s ease-out 1;
+
+  /* remove if you want more space under title */
+  margin-bottom: 0;
+  line-height: 1;
 }
 @keyframes glide-in {
   0%{

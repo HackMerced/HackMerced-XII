@@ -43,8 +43,8 @@ const Hamburger = () => {
                         <li><Link to="https://ucmerced.az1.qualtrics.com/jfe/form/SV_d4LUVvFSuQu6ChM"><button className="burger-button" id="burger-home" onClick={closeMenu}>Register!</button></Link></li> 
                         <li><Link to="https://ucmerced.az1.qualtrics.com/jfe/form/SV_bd9SUxJc0EjVhoq"><button className="burger-button" id="burger-home" onClick={closeMenu}>Become a Judge</button></Link></li> 
                         <li><Link to="/aboutus"><button className="burger-button" id="burger-about" onClick={closeMenu}>About US</button></Link></li> 
-                        <li><Link to="/contactus"><button className="burger-button" id="burger-contact" onClick={closeMenu}>Contact Us</button></Link></li> 
-                        <li><Link to="/sponsorus"><button className="burger-button" id="burger-sponsor" onClick={closeMenu}>Sponsor Us</button></Link></li>
+                        {/* <li><Link to="/contactus"><button className="burger-button" id="burger-contact" onClick={closeMenu}>Contact Us</button></Link></li>  */}
+                        {/* <li><Link to="/sponsorus"><button className="burger-button" id="burger-sponsor" onClick={closeMenu}>Sponsor Us</button></Link></li> */}
                     </ul>
                 </div>
             </div>

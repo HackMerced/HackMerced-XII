@@ -12,7 +12,7 @@ function HomePage() {
       <MainPage/>
       {/* <Hacktually/> */}
       <HackDay/>
-      <Tracks/>
+      {/* <Tracks/> */}
       <FAQ/>
       <Sponsors/>
     </div>

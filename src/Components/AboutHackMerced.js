@@ -46,7 +46,7 @@ export default function AboutHackMerced(){
                     paddingTop: 60,
                     paddingBottom: 60,
                     padding: 40
-                }}>HackMerced is a 36-hour hackathon hosted at the
+                }}>HackMerced is a hackathon hosted at the
                         University of California, Merced by an organization
                         comprised of UC Merced students and alumni. Students
                         from all schools and backgrounds, regardless of prior
@@ -55,7 +55,7 @@ export default function AboutHackMerced(){
                         environment that showcases the creativity and innovation
                         culminating in the San Joaquin Valley.
                         <br/><br/>
-                        Celebrating 11 years of HackMerced! View our previous iterations here: <a href="https://archives.hackmerced.com/">HackMerced Archives</a>
+                        Celebrating 12 years of HackMerced! View our previous iterations here: <a href="https://archives.hackmerced.com/">HackMerced Archives</a>
                     </div>
 
         </div>

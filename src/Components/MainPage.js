@@ -13,11 +13,12 @@ function MainPage() {
           <img src={HackMercedTower} className='Main-hackmerced-tower' alt='HackMerced X Tower'/>
           <div className="Main-text-background">
             <div className="Main-text">
-              <h1 className="Main-title">HackMerced XI @ UC Merced</h1>
+              <h1 className="Main-title">HacktoberFest HackDay</h1>
+              <h2 className="Main-subtitle">@ UC Merced</h2>
                 {/* <h1 className="Main-title">Hack Day @ UC Merced</h1> */}
                 <p className="Main-subtitle">
                   {/* Coming in Spring 2026!  */}
-                  March 6 4:00pm to March 8 12:00pm in COB1 102!
+                  October 24th from 10:00am to 10:00pm in COB2 110!
                 <br/>
                 <div class="starWrapper">
                   <p class="star1" id="star">★</p>

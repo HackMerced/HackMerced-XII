@@ -58,7 +58,7 @@ function FAQ() {
             <FAQAccordion title='Who can attend?' description='All students are eligible to participate. You do not need to attend UC Merced.'/>
           </Grid2>
           <Grid2 item size={6}>
-            <FAQAccordion title='Where can I park?' description={<>For a parking map resource, please see {<a href = "https://www.google.com/maps/d/u/0/edit?mid=1WERa2Y1r-rVHjKGyWQaXwaQ7C9iN7JU&usp=sharing">here</a>}. Parking on campus at UC Merced is free on weekends in non-specially marked spaces in Gold, Slate, Blue, Green Zones only. On Friday, a parking permit is required until 6pm in Bellevue Lot- Green Zone, Scholars Lot, and North Bowl Lots.  You may purchase here: {<a href = " https://taps.ucmerced.edu/permits/visitorsvendors"> https://taps.ucmerced.edu/permits/visitorsvendors</a>}.  We recommend the 2 hour pass so you can be present for Check-In.  Parking is free after 6 PM in the North Bowl, Scholars and Bellevue Lot - Green Zone lots. Parking is free after 8 PM in the Le Grand Lot, Library Lots 1 and 2 and Bellevue Lot - Gold Zone lots. Note that parking in the University Lot, Calaveras Lot, H Zones and specially marked spaces are prohibited at all times.</>}/>
+            <FAQAccordion title='Where can I park?' description={<>For a parking map resource, please see {<a href = "https://www.google.com/maps/d/u/0/edit?mid=1WERa2Y1r-rVHjKGyWQaXwaQ7C9iN7JU&usp=sharing">here</a>}. You may purchase here: {<a href = " https://taps.ucmerced.edu/permits/visitorsvendors"> https://taps.ucmerced.edu/permits/visitorsvendors</a>}.  We recommend the 2 hour pass so you can be present for Check-In.</>}/>
           </Grid2>
           {/* <Grid2 item size={6}>
             <FAQAccordion title='Can I participate if I’m in high school?' description='Yes! However, if you are under the age of 18 you must sign the waiver in our registration form with a parent or guardian. Additionally, you are not permitted to sleep in campus buildings overnight (we advise leaving and returning to campus during the day).'/>
@@ -67,7 +67,7 @@ function FAQ() {
             <FAQAccordion title='How do I win free swag?' description='This year, HackMerced is proud to collaborate with Badger, an RFID-based attendance tracking system. When you participate in workshops or activities, simply scan the badge you obtain at check-in to earn points that can be redeemed for swag. Track points through live.hackmerced.com'/>
           </Grid2>
           <Grid2 item size={6}>
-            <FAQAccordion title='Can I apply to judge or mentor?' description={<>If you are interested in mentoring, please apply using {<a href="https://ucmerced.az1.qualtrics.com/jfe/form/SV_bd9SUxJc0EjVhoq">this form</a>}. If you would like to judge a track, please consider sponsoring us by contacting Megan Ciraulo at mciraulo@ucmerced.edu</>}/>
+            <FAQAccordion title='Can I apply to judge or mentor?' description={<>If you are interested in mentoring or would like to judge a track, please consider sponsoring us by contacting Brandon Del Mundo at bdelmundo@ucmerced.edu</>}/>
           </Grid2>
           {/* <Grid2 item size={6}>
             <FAQAccordion title='When and where is the opening ceremony?' description={<>Our Check-in is on March 8th, 4:00pm.  Opening Ceremony is March 8th, 5:00pm. Both at UC Merced in building COB1 102. It will last about an hour. Hacking begins at 6pm for 36 hours. See a maps of the school and the buildings {<a href="https://registrar.ucmerced.edu/resources/maps">here</a>}</>}/>
@@ -83,9 +83,13 @@ function FAQ() {
           </FAQAccordion>
           </Grid2>
           <Grid2 item size={6}>
-          <FAQAccordion title='Will there be any places to sleep or will I need to book a hotel?' description='We will be have rooms COB1 110 as a designated sleep room during the event. You will see exact times in our Live Page!'>
+          <FAQAccordion title='Will there be any places to sleep or will I need to book a hotel?' description='Due to HacktoberFest HackDay being a 1-day event, no sleep rooms will be provided.'>
           </FAQAccordion>
           </Grid2>
+          {/* <Grid2 item size={6}>
+          <FAQAccordion title='Will there be any places to sleep or will I need to book a hotel?' description='We will be have rooms COB1 110 as a designated sleep room during the event. You will see exact times in our Live Page!'>
+          </FAQAccordion>
+          </Grid2> */}
           <Grid2 item size={6}>
           <FAQAccordion title='I have more questions!' description='Please join the HackMerced Community Discord server! If you have personal questions, feel free to open a ticket with us there. Please join our Discord at ' link='https://hackmerced.com/discord'>
           </FAQAccordion>
